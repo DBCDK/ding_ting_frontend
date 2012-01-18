@@ -10,7 +10,7 @@ projects[ctools][version] = "1.0-rc1"
 projects[ctools][patch][] = "http://drupal.org/files/issues/user_edit_form-p0-format-1184168.patch"
 
 projects[i18n][subdir] = contrib
-projects[i18n][version] = 1.1
+projects[i18n][version] = 1.3
 
 projects[panels][subdir] = "contrib"
 projects[panels][version] = "3.0-alpha3"
@@ -38,8 +38,8 @@ projects[ding_facetbrowser][download][tag] = "7.x-0.12"
 
 projects[ding_frontend][type] = "module"
 projects[ding_frontend][download][type] = "git"
-projects[ding_frontend][download][url] = "git@github.com:ding2/ding_frontend.git"
-projects[ding_frontend][download][tag] = "7.x-0.20"
+projects[ding_frontend][download][url] = "git@github.com:DBCDK/ding_frontend.git"
+projects[ding_frontend][download][tag] = "7.x-0.20.2"
 
 projects[ting_search][type] = "module"
 projects[ting_search][download][type] = "git"
@@ -49,17 +49,17 @@ projects[ting_search][download][tag] = "7.x-0.23"
 projects[ting_search_autocomplete][type] = "module"
 projects[ting_search_autocomplete][download][type] = "git"
 projects[ting_search_autocomplete][download][url] = "git@github.com:ding2/ting_search_autocomplete.git"
-projects[ting_search_autocomplete][download][tag] = "7.x-0.16"
+projects[ting_search_autocomplete][download][tag] = "7.x-0.17"
 
 projects[ding_availability][type] = "module"
 projects[ding_availability][download][type] = "git"
 projects[ding_availability][download][url] = "git@github.com:ding2/ding_availability.git"
-projects[ding_availability][download][tag] = "7.x-0.9"
+projects[ding_availability][download][tag] = "7.x-0.12"
 
 projects[ding_periodical][type] = "module"
 projects[ding_periodical][download][type] = "git"
 projects[ding_periodical][download][url] = "git@github.com:ding2/ding_periodical.git"
-projects[ding_periodical][download][tag] = "7.x-0.5"
+projects[ding_periodical][download][tag] = "7.x-0.10"
 
 projects[ting_relation][type] = "module"
 projects[ting_relation][download][type] = "git"
@@ -79,17 +79,17 @@ projects[ting_covers][download][tag] = "7.x-0.19"
 projects[ting_proxy][type] = "module"
 projects[ting_proxy][download][type] = "git"
 projects[ting_proxy][download][url] = "git@github.com:ding2/ting_proxy.git"
-projects[ting_proxy][download][tag] = "7.x-0.9"
+projects[ting_proxy][download][tag] = "7.x-0.18"
 
 projects[ting_infomedia][type] = "module"
 projects[ting_infomedia][download][type] = "git"
 projects[ting_infomedia][download][url] = "git@github.com:ding2/ting_infomedia.git"
-projects[ting_infomedia][download][tag] = "7.x-0.9"
+projects[ting_infomedia][download][tag] = "7.x-0.10"
 
 projects[ting_fulltext][type] = "module"
 projects[ting_fulltext][download][type] = "git"
 projects[ting_fulltext][download][url] = "git@github.com:ding2/ting_fulltext.git"
-projects[ting_fulltext][download][tag] = "7.x-0.9"
+projects[ting_fulltext][download][tag] = "7.x-0.18"
 
 projects[ting_sfx][type] = "module"
 projects[ting_sfx][download][type] = "git"
@@ -99,9 +99,9 @@ projects[ting_sfx][download][tag] = "7.x-0.20"
 projects[ting_reference][type] = module
 projects[ting_reference][download][type] = git
 projects[ting_reference][download][url] = git@github.com:ding2/ting_reference.git
-projects[ting_reference][download][tag] = "7.x-0.14"
+projects[ting_reference][download][tag] = "7.x-0.15"
 
 projects[ting_material_details][type] = "module"
 projects[ting_material_details][download][type] = "git"
 projects[ting_material_details][download][url] = "git@github.com:ding2/ting_material_details.git"
-projects[ting_material_details][download][tag] = "7.x-0.9"
+projects[ting_material_details][download][tag] = "7.x-0.10"
