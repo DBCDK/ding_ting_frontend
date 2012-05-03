@@ -56,9 +56,15 @@ projects[ding_availability][download][type] = "git"
 projects[ding_availability][download][url] = "git@github.com:ding2/ding_availability.git"
 projects[ding_availability][download][tag] = "7.x-0.14"
 
+; pjo a minor bugfix in ding_periodical_reservations
+;projects[ding_periodical][type] = "module"
+;projects[ding_periodical][download][type] = "git"
+;projects[ding_periodical][download][url] = "git@github.com:ding2/ding_periodical.git"
+;projects[ding_periodical][download][tag] = "7.x-0.12"
+
 projects[ding_periodical][type] = "module"
 projects[ding_periodical][download][type] = "git"
-projects[ding_periodical][download][url] = "git@github.com:ding2/ding_periodical.git"
+projects[ding_periodical][download][url] = "git@github.com:DBCDK/ding_periodical.git"
 projects[ding_periodical][download][tag] = "7.x-0.12"
 
 projects[ting_relation][type] = "module"
